@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Project</string>
+    <string name="next">сохранить и прейдти</string>
+    <string name="back">back</string>
+</resources>
